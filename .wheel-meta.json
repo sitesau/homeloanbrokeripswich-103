@@ -1,0 +1,22 @@
+{
+  "wheel_id": 495,
+  "structure": "umbrella",
+  "slug": "homeloanbrokeripswich-103",
+  "project": "mortgage-broker-ipswich-how-to-choose-106df17779be8ea097a27f022",
+  "parent_t1_ref": "homeloanbrokeripswich-151",
+  "node_role": "feeder",
+  "money_target": "homeloanbrokeripswich.com.au",
+  "primary_kw": "mortgage broker ipswich how to choose",
+  "intended_url": "http://mortgage-broker-ipswich-how-to-choose-106df17779be8ea097a27f022.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "tier": "T2",
+  "writeback_nonce": "9e70148a0c5ef882",
+  "links": [
+    {
+      "target_url": "https://sitesau.github.io/homeloanbrokeripswich-151/",
+      "anchor": "Mortgage Broker Ipswich: Ipswich Finance Options",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "topical"
+    }
+  ]
+}
